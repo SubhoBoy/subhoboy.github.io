@@ -1,4 +1,4 @@
-# WIP. Below is a template.
+## WIP. Below is a template.
 
 ## Welcome to GitHub Pages
 
